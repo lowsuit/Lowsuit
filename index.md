@@ -24,9 +24,9 @@
   <a href="https://www.instagram.com/ack_1453">Visit Instagram.com</a>
   <table>
   <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
+    <td>Data 1</td>
+    <td>Data 2</td>
+    <td>Data 3</td>
   </tr>
 </table>
 
