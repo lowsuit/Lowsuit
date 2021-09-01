@@ -13,5 +13,5 @@
 
 </body>
   
-<a href="www.instagram.com/ack_1453">iNSTA</a>
+<a href="www.instagram.com/ack_1453">Insta</a>
 </html>
