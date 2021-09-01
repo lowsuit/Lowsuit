@@ -19,9 +19,9 @@
 <p>Paragraph One.</p>
 <p>Paragraph Two.</p>
   
-<aside><img src="flower.jpeg" alt="Flower">
+<img src="flower.jpeg" alt="Flower">
 
-  <a href="https://www.instagram.com/ack_1453">Visit Instagram.com</a>
+<a href="https://www.instagram.com/ack_1453">Visit Instagram.com</a>
   
   <ul>
   <li>1</li>
