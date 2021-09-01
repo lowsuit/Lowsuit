@@ -17,7 +17,8 @@
   
   
 
-<p>This is a paragraph.</p>
+<p>Paragraph One.</p>
+<p>Paragraph Two.</p>
   
 <img src="flower.jpeg" alt="Flower">
 
