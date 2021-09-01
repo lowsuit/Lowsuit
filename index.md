@@ -30,9 +30,9 @@
 </ul>
   
   <ol>
-  <li>1</li>
-  <li>2</li>
-  <li>3</li>
+  <li>One</li>
+  <li>two</li>
+  <li>Three</li>
 </ol>
   
   
