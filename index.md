@@ -4,8 +4,8 @@
 <body>
 
 <h1>Said Is Bad</h1>
-<h1>Heading 2</h2>
-<h1>Heading 3</h3>
+<h2>Heading 2
+<h3>Heading 3
 
 <p>This is a paragraph.</p>
   
