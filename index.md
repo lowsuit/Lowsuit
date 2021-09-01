@@ -3,7 +3,7 @@
 <title>HTML Tutorial</title>
 <body>
 
-<h4>Said Is Bad</h1>
+<h4>Heading 1
 <h4>Heading 2
 <h4>Heading 3
 <h4>heading 4
