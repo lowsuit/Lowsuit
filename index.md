@@ -3,9 +3,9 @@
 <title>HTML Tutorial</title>
 <body>
 
-<h1>Said Is Bad</h1>
-<h2>Heading 2
-<h3>Heading 3
+<h4>Said Is Bad</h1>
+<h4>Heading 2
+<h4>Heading 3
 <h4>heading 4
 <h4>Heading 5
 <h4>Heading 6
