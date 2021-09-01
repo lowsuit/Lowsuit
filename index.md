@@ -22,6 +22,17 @@
 <aside><img src="flower.jpeg" alt="Flower">
 
   <a href="https://www.instagram.com/ack_1453">Visit Instagram.com</a>
+  
+  <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+  
+  
+  
+  
+  
   <table>
   <tr>
     <td>Data 1</td>
