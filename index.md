@@ -8,7 +8,7 @@
 
 <p>This is a paragraph.</p>
   
-<img src="img_girl.jpg" alt="Girl in a jacket">
+<img src="flower.jpeg" alt="Flower">
 
 </body>
 <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
