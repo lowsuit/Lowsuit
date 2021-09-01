@@ -21,7 +21,7 @@
   
 <img src="flower.jpeg" alt="Flower">
 
-  <a href="https://www.instagram.com/ack_1453">Visit Instagram.com</a>
+  <nav><a href="https://www.instagram.com/ack_1453">Visit Instagram.com</a>
   <table>
   <tr>
     <td>Data 1</td>
